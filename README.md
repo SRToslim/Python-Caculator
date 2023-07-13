@@ -1,3 +1,3 @@
 # Python-Caculator
 
-This is made by Rubaiyat Toslim
+This is made by Rubaiyat Toslim.
